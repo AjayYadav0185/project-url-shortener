@@ -1,4 +1,4 @@
-- User authentication (login) using Laravel Jetstream / Sanctum  
+- User authentication (login)  
 - Roles:
   - SuperAdmin
   - Admin
